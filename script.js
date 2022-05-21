@@ -29,3 +29,8 @@ if (hour < 10 || hour > 18) {
 } else if (hour > 10 && hour < 18) {
   console.log("Офис открыт");
 }
+
+function foo() {
+  alert("Hello");
+}
+foo();
