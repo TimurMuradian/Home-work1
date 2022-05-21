@@ -34,3 +34,8 @@ function foo() {
   alert("Hello");
 }
 foo();
+
+function foo2() {
+    alert("Hello, World");
+}
+foo2()
